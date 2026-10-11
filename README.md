@@ -33,8 +33,20 @@ The implementations were developed with AI coding assistance. Claims are tied to
 
 ## Current direction
 
-Make Maze Signal easier to try through a browser demonstration, improve first-use documentation,
-and learn from reproducible bug reports and outside contributions. A browser demo is planned; it is not available yet.
+[Try the published Maze Signal demo](https://mohammmad357.github.io/maze-signal/): draw weighted maps and compare Dijkstra with A*.
+The owner confirmed the trap costs 8 in both panels; a later in-app-browser check encountered a DNS failure.
+If Pages is unavailable on your network, use the repository quick start.
+
+[Visual example: four moves cost 28, eight cost 8](https://github.com/mohammmad357/maze-signal/blob/main/docs/WEEK09_VISUAL.md) ·
+[Goldbach bug story](https://github.com/mohammmad357/maze-signal/blob/main/docs/WEEK10_BUG_STORY.md) ·
+[Portfolio evidence and interview cards](https://github.com/mohammmad357/maze-signal/blob/main/docs/PORTFOLIO.md) ·
+[Interim progress report](https://github.com/mohammmad357/maze-signal/blob/main/docs/PROGRESS_90D.md) ·
+[How to support the work](https://github.com/mohammmad357/maze-signal/blob/main/docs/SUPPORT.md)
+
+Two proposed upstream fixes are open as **drafts**, not merged contributions:
+[parallel sorting #15554](https://github.com/TheAlgorithms/Python/pull/15554) and
+[repeated-prime Goldbach pairs #15555](https://github.com/TheAlgorithms/Python/pull/15555).
+Current priority: real first-use feedback and small maintenance work.
 
 If you try a project, open an issue in that repository with the command, environment,
 expected behavior and actual result. Small, well-explained contributions are welcome.
@@ -48,3 +60,4 @@ expected behavior and actual result. Small, well-explained contributions are wel
 CrashVault یک موتور آموزشی کوچک است؛ Faultline پیش‌بینی بیماری نیست؛ نتایج PowerControlLab فعلاً شبیه‌سازی‌اند.
 
 </details>
+
