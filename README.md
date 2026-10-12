@@ -61,3 +61,12 @@ CrashVault یک موتور آموزشی کوچک است؛ Faultline پیش‌ب�
 
 </details>
 
+
+## Support / حمایت
+
+[Support maintenance on Coffeebede — Iranian domestic payments](https://www.coffeebede.com/mohammad_cloner)
+
+Voluntary support helps maintain these educational projects and their documentation. This is a domestic payment option; international card and cryptocurrency payments are not available here. No paid support tier or delivery deadline is promised.
+
+[حمایت ریالی از نگهداری پروژه‌ها](https://www.coffeebede.com/mohammad_cloner) — این لینک درگاه داخلی است و پرداخت با کارت خارجی یا رمزارز ندارد.
+
