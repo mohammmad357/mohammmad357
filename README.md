@@ -70,3 +70,7 @@ Voluntary support helps maintain these educational projects and their documentat
 
 [حمایت ریالی از نگهداری پروژه‌ها](https://www.coffeebede.com/mohammad_cloner) — این لینک درگاه داخلی است و پرداخت با کارت خارجی یا رمزارز ندارد.
 
+
+[![QR: Coffeebede domestic support](https://raw.githubusercontent.com/mohammmad357/mohammmad357/main/support-qr.png)](https://www.coffeebede.com/mohammad_cloner)
+
+Scan for the domestic payment page / اسکن برای صفحهٔ حمایت ریالی.
