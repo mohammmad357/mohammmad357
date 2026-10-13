@@ -2,28 +2,41 @@
 
 # Hi, I'm Mohammad Javad 👋
 
-### Python & C · Algorithms · Simulation · Practical web tools
+### Electrical Engineer · Control & Power · PhD Student in Electrical Engineering
 
-I turn engineering questions into small open-source projects you can run, inspect and improve.
+**Robotics · Autonomous Systems · Data Fusion · Real-Time Implementation**
 
-[Explore my projects](#selected-projects) · [Try Maze Signal](https://mohammmad357.github.io/maze-signal/) · [فارسی](#فارسی--دربارهٔ-من)
+**مهندس برق در حوزهٔ کنترل و قدرت | دانشجوی دکتری مهندسی برق**
 
+[Engineering focus](#engineering-focus) · [Selected projects](#selected-projects) · [فارسی](#فارسی--دربارهٔ-من)
+
+<!-- PROFILE VIEW COUNTER: Preserve the existing username and badge URL in future edits. Do not add a base value or reset/migrate the service when updating this README. Counts are stored by the third-party service, not in this Markdown file. -->
 ![Profile views](https://komarev.com/ghpvc/?username=mohammmad357&label=Profile+views&color=0f766e&style=flat)
 
 </div>
 
 ## About me
 
-I'm Mohammad Javad, also known as **Cloner**. I build and share projects around Python, C, algorithms, data recovery, numerical simulation and useful web interfaces.
+I'm **Mohammad Javad**, also known as **Cloner** — an **electrical engineer working in control and power**, currently pursuing a **PhD in Electrical Engineering**.
 
-I enjoy the part where an idea becomes something testable: a path you can trace, a log you can recover, or a simulation you can reproduce. I'm growing this portfolio through documented experiments, clearer explanations and feedback from other developers.
+My work connects control-system design, robotics and hands-on electronics. I've worked on **pathfinding robots and flying robots**, and I design control systems. My research interests include **autonomous robots, data fusion and real-time implementation**.
 
-## What I work on
+I am proficient in **C and Python** and work with **MATLAB and Altium Designer**. Alongside software and simulation, I have experience designing and building **physical circuits**.
 
-- **Algorithms:** weighted pathfinding, graph search and comparisons between implementations.
-- **Systems and data integrity:** binary formats, append-only logs and recovery after a process restart.
-- **Scientific and engineering software:** stochastic simulation, numerical checks and inverter-control experiments.
-- **Web tools:** interactive explanations, bilingual interfaces and local integration prototypes.
+## Engineering focus
+
+| Area | My focus |
+|---|---|
+| **Control & power engineering** | Control-system design, modeling and simulation |
+| **Robotics & autonomous systems** | Experience with pathfinding and flying robots; research into autonomous robots |
+| **Data fusion & real-time implementation** | Research into combining data and implementing algorithms in real time |
+| **Electronics & hardware** | Circuit design, Altium Designer and construction of physical circuits |
+
+## Languages & tools
+
+**C · Python · MATLAB · Altium Designer**
+
+I use programming, simulation and hardware prototyping to move from an engineering idea toward an implementation that can be examined and tested.
 
 ## Selected projects
 
@@ -39,31 +52,37 @@ I enjoy the part where an idea becomes something testable: a path you can trace,
 
 ## How I build
 
-**Define the problem → implement → check independently → measure → document.**
+**Understand the system → model → implement → test → document.**
 
-I publish readable code, repeatable commands, tests and the assumptions behind results. These projects are developed with AI coding assistance under my direction, and their claims are tied to executable evidence.
+I value readable code, repeatable experiments and clear explanations. These public projects are developed with AI coding assistance under my direction; their reported results are tied to documented tests and experiments.
 
-CrashVault is an educational storage engine; Faultline uses synthetic networks; PowerControlLab's results are simulations; Creator Rail remains experimental, with payment integration under test.
+CrashVault is an educational storage engine; Faultline uses synthetic networks; PowerControlLab's published results are simulations; Creator Rail remains experimental, with payment integration under test.
 
 ## Let's collaborate
 
-Reproducible bug reports, documentation improvements and small, well-tested contributions are welcome. Open an issue in the relevant repository with your environment, steps, expected result and actual result.
+I'm interested in exchanging ideas around **control systems, power engineering, robotics, autonomous systems, data fusion and real-time software**.
 
-If a project helps you, a star makes it easier for others to discover it. Follow along for new experiments and updates.
+Reproducible bug reports, documentation improvements and small, well-tested contributions are welcome. Open an issue in the relevant repository with your environment, steps and observed result.
+
+If a project is useful to you, a star helps others discover it. Follow along for new experiments and updates.
 
 ## فارسی — دربارهٔ من
 
 <div dir="rtl">
 
-من **محمدجواد** هستم؛ با نام **Cloner** هم فعالیت می‌کنم. روی پروژه‌های متن‌باز در زمینهٔ **پایتون، زبان C، الگوریتم‌ها، بازیابی داده، شبیه‌سازی و ابزارهای وب** کار می‌کنم.
+من **محمدجواد** هستم؛ با نام **Cloner** هم فعالیت می‌کنم. **مهندس برق در حوزه‌های کنترل و قدرت** هستم و در حال تحصیل در **مقطع دکتری مهندسی برق** هستم.
 
-چیزی که در ساختن دوست دارم، تبدیل یک ایده به نتیجهٔ قابل‌بررسی است: مسیری که بشود دنبال کرد، داده‌ای که بشود بازیابی کرد و آزمایشی که بشود دوباره اجرا کرد. هدفم رشد این مجموعه با کد خوانا، مستندات روشن و بازخورد واقعی است.
+در **طراحی سیستم‌های کنترلی** فعالیت دارم و روی **ربات‌های مسیریاب و ربات‌های پرنده** کار کرده‌ام. زمینه‌های پژوهشی‌ام شامل **ربات‌های خودران، ادغام داده‌ها (Data Fusion) و پیاده‌سازی و اجرای بلادرنگ (Real-Time)** است.
 
-**پروژه‌های من:** Maze Signal برای مسیریابی، CrashVault برای ذخیره و بازیابی داده، Faultline برای شبیه‌سازی تصادفی، PowerControlLab برای بررسی کنترل اینورتر و Creator Rail برای آزمایش رابط حمایت از سازندگان.
+در برنامه‌نویسی با **زبان C و پایتون** مهارت دارم و با **MATLAB و Altium Designer** کار می‌کنم. تجربه‌ام علاوه بر نرم‌افزار و شبیه‌سازی، **طراحی و ساخت مدارهای واقعی** را هم شامل می‌شود.
 
-این پروژه‌ها با کمک ابزارهای هوش مصنوعی توسعه یافته‌اند. وضعیت آزمایشی، فرض‌ها و محدودیت‌های هر پروژه در مستنداتش مشخص شده است.
+به ارتباط میان مدل، الگوریتم، سیستم کنترل و سخت‌افزار علاقه دارم؛ هدفم تبدیل ایده‌های مهندسی به پیاده‌سازی‌هایی است که بتوان آن‌ها را آزمایش، بررسی و بهتر کرد.
 
-اگر یکی از پروژه‌ها برایت مفید بود، بازخوردت را در Issue همان مخزن بنویس. مشارکت در کد و مستندات هم خوشحال‌کننده است.
+**در گیت‌هاب:** PowerControlLab برای بررسی کنترل اینورتر، Maze Signal برای مسیریابی، CrashVault برای ذخیره و بازیابی داده، Faultline برای شبیه‌سازی تصادفی و Creator Rail برای آزمایش رابط حمایت از سازندگان را منتشر کرده‌ام.
+
+پروژه‌های متن‌باز این مجموعه با کمک ابزارهای هوش مصنوعی توسعه یافته‌اند؛ نتایج، فرض‌ها و محدودیت‌های هر پروژه در مستندات همان مخزن آمده‌اند.
+
+از گفت‌وگو و مشارکت در زمینهٔ **کنترل، قدرت، رباتیک، سیستم‌های خودران، ادغام داده و اجرای بلادرنگ** استقبال می‌کنم.
 
 </div>
 
