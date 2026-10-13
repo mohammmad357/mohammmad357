@@ -1,38 +1,62 @@
 <div align="center">
 
-# Hi, I'm Mohammad Javad Holghoomi 👋
+# Mohammad Javad Holghoomi 👋
 
-### Electrical Engineer · Control & Power · PhD Student in Electrical Power Engineering
+### Electrical Engineer · Control & Power · PhD Student
 
-**Robotics · Autonomous Systems · Data Fusion · Real-Time Implementation**
+**Robotics · Sensor Fusion · Embedded Systems · Real-Time Control**
 
-**مهندس برق در حوزهٔ کنترل و قدرت | دانشجوی دکتری مهندسی برق قدرت**
+**مهندس برق | دانشجوی دکتری برق قدرت | کنترل، رباتیک و تلفیق حسگرها**
 
-[Engineering focus](#engineering-focus) · [Selected projects](#selected-projects) · [فارسی](#فارسی--دربارهٔ-من)
+[Explore my work](#featured-projects) · [Background & research](#background--research) · [Collaborate](#lets-collaborate) · [فارسی](#فارسی--دربارهٔ-من)
 
 <!-- PROFILE VIEW COUNTER: Preserve the existing username and badge URL in future edits. Do not add a base value or reset/migrate the service when updating this README. Counts are stored by the third-party service, not in this Markdown file. -->
 ![Profile views](https://komarev.com/ghpvc/?username=mohammmad357&label=Profile+views&color=0f766e&style=flat)
 
 </div>
 
-## About me
+I connect **control algorithms, electronics and working hardware**. My experience spans agricultural and monitoring drones, pathfinding robots, embedded programming and circuit/PCB fabrication. I teach robotics and Python and research sensor fusion and autonomous systems.
 
-I'm **Mohammad Javad Holghoomi**, also known as **Cloner** — an **electrical engineer with a background in electronics and control**, currently pursuing a **PhD in Electrical Power Engineering** at **Mohaghegh Ardabili University**.
+**Currently:** PhD studies in Electrical Power Engineering at **Mohaghegh Ardabili University**; MSc in Control Engineering and BSc in Electronics Engineering.
 
-My work connects control-system design, robotics and hands-on electronics. I've worked on **pathfinding robots and flying robots**, and I design control systems. My research interests include **autonomous robots, data fusion and real-time implementation**.
+## Featured projects
 
-My experience includes **developing agricultural and monitoring drones**, embedded programming, and hands-on **circuit and PCB design and fabrication**. I also teach **robotics and Python**.
+### ⚡ PowerControlLab — Inverter control experiments
 
-## Engineering focus
+[![PowerControlLab engineering benchmark](https://raw.githubusercontent.com/mohammmad357/PowerControlLab/main/artifacts/reference/figures/hero.svg)](https://github.com/mohammmad357/PowerControlLab)
 
-| Area | My focus |
-|---|---|
-| **Control & power engineering** | Control-system design, modeling and simulation |
-| **Robotics & autonomous systems** | Experience with pathfinding and flying robots; research into autonomous robots |
-| **Data fusion & real-time implementation** | Research into combining data and implementing algorithms in real time |
-| **Electronics & embedded systems** | Circuit and PCB design/fabrication; STM32 and Raspberry Pi programming and I/O |
+Compare **PI, SMC, adaptive SMC and constrained MPC** for a 400 V DC → 230 Vrms, 50 Hz inverter, with repeatable disturbances and measured simulation metrics.
 
-## Languages & tools
+**Evidence:** published benchmark tables, numerical checks and reproducibility instructions. **Scope:** simulation; physical hardware validation is future work.
+
+[Repository](https://github.com/mohammmad357/PowerControlLab) · [Results](https://github.com/mohammmad357/PowerControlLab#measured-results) · [Run locally](https://github.com/mohammmad357/PowerControlLab#quick-start)
+
+### 🧭 Maze Signal — See how optimal pathfinding works
+
+Paint a weighted grid and compare **A-star and Dijkstra**. Matching **Python and C** implementations connect an interactive explanation to documented tests and benchmarks.
+
+[Try the live demo](https://mohammmad357.github.io/maze-signal/) · [Repository](https://github.com/mohammmad357/maze-signal) · [Measured results](https://github.com/mohammmad357/maze-signal/blob/main/results/RESULTS.md)
+
+### 🗃️ CrashVault — Explore storage and recovery
+
+An educational **Python/C storage engine** with matching binary logs, corruption checks and restart recovery. Follow a documented recovery walkthrough to see how failures are handled.
+
+[Repository](https://github.com/mohammmad357/crashvault) · [Recovery walkthrough](https://github.com/mohammmad357/crashvault/blob/main/RECOVERY_DEMO.md)
+
+<details>
+<summary><strong>More experiments — Faultline & Creator Rail</strong></summary>
+
+- [**Faultline**](https://github.com/mohammmad357/faultline): reproducible stochastic simulations on synthetic networks, with matching Python/C event histories. [Model & reproducibility](https://github.com/mohammmad357/faultline/blob/main/MODEL.md).
+- [**Creator Rail**](https://github.com/mohammmad357/creator-rail): a Persian/English creator-support prototype with a BTCPay invoice adapter. Payment integration remains under test. [Evidence & limitations](https://github.com/mohammmad357/creator-rail#evidence-and-limitations).
+
+</details>
+
+## Tools I work with
+
+**Python · C · MATLAB/Simulink · Altium Designer · STM32 · Raspberry Pi**
+
+<details>
+<summary><strong>Full technical skills & proficiency</strong></summary>
 
 | Area | Tools & experience |
 |---|---|
@@ -42,6 +66,13 @@ My experience includes **developing agricultural and monitoring drones**, embedd
 | **Embedded development** | STM32 · Raspberry Pi · Keil · CodeVisionAVR · STM32CubeMX |
 
 I use programming, simulation and hardware prototyping to move from an engineering idea toward an implementation that can be examined and tested.
+
+</details>
+
+## Background & research
+
+<details>
+<summary><strong>Education · drone development · teaching · research · robotics achievements</strong></summary>
 
 ## Education
 
@@ -63,35 +94,33 @@ I use programming, simulation and hardware prototyping to move from an engineeri
 - **Built two pathfinding robots**; member of a four-person team that placed **third** in a provincial pathfinding-robot competition (**1396**).
 - **Youngest-participant recognition**, Sabalan Robo national robotics competition, at age **11** (**1389**).
 
-## Selected projects
+## Engineering focus
 
-| Project | What it explores | Start with |
-|---|---|---|
-| [**Maze Signal**](https://github.com/mohammmad357/maze-signal) | Dijkstra and A* on weighted grids, with Python/C implementations and a browser editor | [Interactive demo](https://mohammmad357.github.io/maze-signal/) · [Measured results](https://github.com/mohammmad357/maze-signal/blob/main/results/RESULTS.md) |
-| [**CrashVault**](https://github.com/mohammmad357/crashvault) | A small Python/C storage engine: matching binary logs, corruption checks and restart recovery | [Recovery walkthrough](https://github.com/mohammmad357/crashvault/blob/main/RECOVERY_DEMO.md) |
-| [**Faultline**](https://github.com/mohammmad357/faultline) | Reproducible stochastic network simulations with matching Python/C event histories | [Model and reproducibility](https://github.com/mohammmad357/faultline/blob/main/MODEL.md) |
-| [**PowerControlLab**](https://github.com/mohammmad357/PowerControlLab) | Python experiments comparing inverter controllers under defined disturbances | [Simulation results](https://github.com/mohammmad357/PowerControlLab#measured-results) |
-| [**Creator Rail**](https://github.com/mohammmad357/creator-rail) | A Persian/English creator-support prototype with a BTCPay invoice adapter | [Prototype and scope](https://github.com/mohammmad357/creator-rail#evidence-and-limitations) |
+| Area | My focus |
+|---|---|
+| **Control & power engineering** | Control-system design, modeling and simulation |
+| **Robotics & autonomous systems** | Experience with pathfinding and flying robots; research into autonomous robots |
+| **Data fusion & real-time implementation** | Research into combining data and implementing algorithms in real time |
+| **Electronics & embedded systems** | Circuit and PCB design/fabrication; STM32 and Raspberry Pi programming and I/O |
 
-**A quick place to start:** open Maze Signal, paint a weighted map and compare the two algorithms. Then inspect the implementation and tests.
+</details>
 
 ## How I build
 
-**Understand the system → model → implement → test → document.**
+**Understand → model → implement → test → document.**
 
-I value readable code, repeatable experiments and clear explanations. These public projects are developed with AI coding assistance under my direction; their reported results are tied to documented tests and experiments.
-
-CrashVault is an educational storage engine; Faultline uses synthetic networks; PowerControlLab's published results are simulations; Creator Rail remains experimental, with payment integration under test.
+I value readable code, repeatable experiments and clear limitations. These public repositories are developed with **AI coding assistance under my direction**; results are linked to documented tests and experiments. My professional hardware experience and each repository's validation scope are described separately.
 
 ## Let's collaborate
 
-I'm interested in exchanging ideas around **control systems, power engineering, robotics, autonomous systems, data fusion and real-time software**.
+Interested in **control, power electronics, robotics, sensor fusion or real-time systems**? Start with a project above and [open an issue](https://github.com/mohammmad357/PowerControlLab/issues) for a technical discussion, a reproducible bug report or a focused contribution. For another project, use its own issue tracker.
 
-Reproducible bug reports, documentation improvements and small, well-tested contributions are welcome. Open an issue in the relevant repository with your environment, steps and observed result.
-
-If a project is useful to you, a star helps others discover it. Follow along for new experiments and updates.
+**Start here:** try Maze Signal in your browser, or run a PowerControlLab experiment locally. Stars, thoughtful feedback and useful contributions help these projects grow.
 
 ## فارسی — دربارهٔ من
+
+<details>
+<summary><strong>معرفی کامل فارسی — تحصیلات، سابقهٔ حرفه‌ای، پژوهش و مهارت‌ها</strong></summary>
 
 <div dir="rtl">
 
@@ -117,6 +146,8 @@ If a project is useful to you, a star helps others discover it. Follow along for
 
 </div>
 
+</details>
+
 ## Support / حمایت
 
 [Support these open-source projects on Coffeebede](https://www.coffeebede.com/mohammad_cloner) · [حمایت ریالی از پروژه‌ها](https://www.coffeebede.com/mohammad_cloner)
@@ -131,4 +162,3 @@ Voluntary support helps maintain the code, experiments and documentation. Coffee
 </details>
 
 <sub>The profile-view badge is a third-party counter of badge requests; it does not identify unique visitors or reconstruct past traffic. شمارندهٔ بازدید، تعداد افراد یکتا یا بازدیدهای گذشته را نشان نمی‌دهد.</sub>
-
