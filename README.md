@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm Mohammad Javad 👋
+# Hi, I'm Mohammad Javad Holghoomi 👋
 
-### Electrical Engineer · Control & Power · PhD Student in Electrical Engineering
+### Electrical Engineer · Control & Power · PhD Student in Electrical Power Engineering
 
 **Robotics · Autonomous Systems · Data Fusion · Real-Time Implementation**
 
-**مهندس برق در حوزهٔ کنترل و قدرت | دانشجوی دکتری مهندسی برق**
+**مهندس برق در حوزهٔ کنترل و قدرت | دانشجوی دکتری مهندسی برق قدرت**
 
 [Engineering focus](#engineering-focus) · [Selected projects](#selected-projects) · [فارسی](#فارسی--دربارهٔ-من)
 
@@ -17,11 +17,11 @@
 
 ## About me
 
-I'm **Mohammad Javad**, also known as **Cloner** — an **electrical engineer working in control and power**, currently pursuing a **PhD in Electrical Engineering**.
+I'm **Mohammad Javad Holghoomi**, also known as **Cloner** — an **electrical engineer with a background in electronics and control**, currently pursuing a **PhD in Electrical Power Engineering** at **Mohaghegh Ardabili University**.
 
 My work connects control-system design, robotics and hands-on electronics. I've worked on **pathfinding robots and flying robots**, and I design control systems. My research interests include **autonomous robots, data fusion and real-time implementation**.
 
-I am proficient in **C and Python** and work with **MATLAB and Altium Designer**. Alongside software and simulation, I have experience designing and building **physical circuits**.
+My experience includes **developing agricultural and monitoring drones**, embedded programming, and hands-on **circuit and PCB design and fabrication**. I also teach **robotics and Python**.
 
 ## Engineering focus
 
@@ -30,13 +30,38 @@ I am proficient in **C and Python** and work with **MATLAB and Altium Designer**
 | **Control & power engineering** | Control-system design, modeling and simulation |
 | **Robotics & autonomous systems** | Experience with pathfinding and flying robots; research into autonomous robots |
 | **Data fusion & real-time implementation** | Research into combining data and implementing algorithms in real time |
-| **Electronics & hardware** | Circuit design, Altium Designer and construction of physical circuits |
+| **Electronics & embedded systems** | Circuit and PCB design/fabrication; STM32 and Raspberry Pi programming and I/O |
 
 ## Languages & tools
 
-**C · Python · MATLAB · Altium Designer**
+| Area | Tools & experience |
+|---|---|
+| **Programming** | Python (good proficiency) · C (intermediate) |
+| **Modeling & analysis** | MATLAB · Simulink · SPSS |
+| **Electronics** | Altium Designer · Proteus · Circuit and PCB fabrication |
+| **Embedded development** | STM32 · Raspberry Pi · Keil · CodeVisionAVR · STM32CubeMX |
 
 I use programming, simulation and hardware prototyping to move from an engineering idea toward an implementation that can be examined and tested.
+
+## Education
+
+| Degree | Institution | Period (Solar Hijri) |
+|---|---|---|
+| **PhD studies — Electrical Power Engineering** | Mohaghegh Ardabili University | Mehr 1404–present |
+| **MSc — Electrical Control Engineering** | Malek Ashtar University of Technology | Mehr 1401–Bahman 1403 |
+| **BSc — Electrical Electronics Engineering** | Mohaghegh Ardabili University | Mehr 1395–Shahrivar 1400 |
+
+## Professional & teaching experience
+
+- **Chair of the Board & responsibility for technical/R&D activities**, شرکت نیک پی الکترونیک صنعت آرتا — **1399–present** (Solar Hijri). Design, construction and testing of monitoring, agricultural spraying and pest-control drones, alongside other technical work.
+- **Robotics & Python instructor**, آموزشگاه علمی راسا و آموزشگاه علمی مثبت — **1404–present** (Solar Hijri). Robotics education for children and Python programming instruction.
+
+## Research & hands-on highlights
+
+- **MSc thesis — Track-to-track fusion for aerial target tracking:** combining radar and camera tracks to improve tracking accuracy and quality while addressing heterogeneous sensor observations.
+- **Conference paper (co-author) — “Design and analysis of an improved switched-boost inverter with high voltage gain”** (English translation of the Persian title). Presented and published in the proceedings of **SGC 2025**, the 15th International Conference on Smart Grids, Shiraz University, **11–12 Azar 1404**, as listed in my resume.
+- **Built two pathfinding robots**; member of a four-person team that placed **third** in a provincial pathfinding-robot competition (**1396**).
+- **Youngest-participant recognition**, Sabalan Robo national robotics competition, at age **11** (**1389**).
 
 ## Selected projects
 
@@ -70,11 +95,17 @@ If a project is useful to you, a star helps others discover it. Follow along for
 
 <div dir="rtl">
 
-من **محمدجواد** هستم؛ با نام **Cloner** هم فعالیت می‌کنم. **مهندس برق در حوزه‌های کنترل و قدرت** هستم و در حال تحصیل در **مقطع دکتری مهندسی برق** هستم.
+من **محمدجواد حلقومی** هستم؛ با نام **Cloner** هم فعالیت می‌کنم. **دانشجوی دکتری مهندسی برق قدرت در دانشگاه محقق اردبیلی** هستم؛ کارشناسی ارشد **مهندسی برق کنترل از دانشگاه صنعتی مالک اشتر** و کارشناسی **مهندسی برق الکترونیک از دانشگاه محقق اردبیلی** دارم.
 
 در **طراحی سیستم‌های کنترلی** فعالیت دارم و روی **ربات‌های مسیریاب و ربات‌های پرنده** کار کرده‌ام. زمینه‌های پژوهشی‌ام شامل **ربات‌های خودران، ادغام داده‌ها (Data Fusion) و پیاده‌سازی و اجرای بلادرنگ (Real-Time)** است.
 
-در برنامه‌نویسی با **زبان C و پایتون** مهارت دارم و با **MATLAB و Altium Designer** کار می‌کنم. تجربه‌ام علاوه بر نرم‌افزار و شبیه‌سازی، **طراحی و ساخت مدارهای واقعی** را هم شامل می‌شود.
+سطح **پایتون من خوب و C متوسط** است. با **MATLAB، Simulink، SPSS، Altium Designer و Proteus** کار می‌کنم و در **طراحی مدار و PCB، ساخت دستی برد، برنامه‌نویسی STM32 و Raspberry Pi و کار با ورودی/خروجی** تجربه دارم؛ ابزارهای توسعه‌ام شامل **Keil، CodeVisionAVR و STM32CubeMX** هستند.
+
+از **۱۳۹۹ تاکنون**، رئیس هیئت‌مدیره و مسئول فعالیت‌های فنی و تحقیقاتی **شرکت نیک پی الکترونیک صنعت آرتا** هستم؛ در طراحی، ساخت و آزمایش **پهپادهای پایشی، سم‌پاش و کنترل آفات کشاورزی** فعالیت دارم. از **۱۴۰۴** نیز در **آموزشگاه علمی راسا و آموزشگاه علمی مثبت** رباتیک و پایتون تدریس می‌کنم.
+
+پایان‌نامهٔ ارشدم **«تلفیق رد به رد در ردیابی اهداف هوایی»** است؛ تلفیق ردهای رادار و دوربین با رفع ناهمگنی مشاهدات دو حسگر. همچنین در مقالهٔ **«طراحی و تحلیل یک اینورتر سوئیچ بوست بهبودیافته با بهره ولتاژ بالا»**، ارائه‌شده و منتشرشده در مجموعه‌مقالات **SGC 2025 در دانشگاه شیراز، ۱۱ و ۱۲ آذر ۱۴۰۴**، هم‌نویسنده هستم.
+
+**دو ربات مسیریاب ساخته‌ام**؛ در **۱۳۹۶** همراه تیم چهار نفره مقام سوم مسابقات استانی ربات مسیریاب را کسب کردیم و در **۱۳۸۹**، در ۱۱سالگی، تندیس جوان‌ترین شرکت‌کنندهٔ مسابقات کشوری سبلان روبو را دریافت کردم.
 
 به ارتباط میان مدل، الگوریتم، سیستم کنترل و سخت‌افزار علاقه دارم؛ هدفم تبدیل ایده‌های مهندسی به پیاده‌سازی‌هایی است که بتوان آن‌ها را آزمایش، بررسی و بهتر کرد.
 
