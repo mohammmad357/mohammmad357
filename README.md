@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mohammad Javad Holghoomi 👋
+# Mohammad Javad Holghoumi 👋
 
 ### Electrical Engineer · Control & Power · PhD Student
 
